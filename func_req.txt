@@ -1,0 +1,10 @@
+- time series
+    -forecasting
+    -interpolate
+    -anomaly detector
+- Computer Vision
+    -classification
+    -object counter (img) + video
+    -list object can be detected
+    -facial recognition + liveness detection
+    -
